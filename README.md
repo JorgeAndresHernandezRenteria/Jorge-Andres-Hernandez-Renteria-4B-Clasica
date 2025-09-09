@@ -1,1 +1,3 @@
-# Jorge-Andres-Hernandez-Renteria-4B-Clasica
+Jorge Andrés Hernández Rentería
+4°B Clásica
+PROGRAMACIÓN ORIENTADA A OBJETOS
