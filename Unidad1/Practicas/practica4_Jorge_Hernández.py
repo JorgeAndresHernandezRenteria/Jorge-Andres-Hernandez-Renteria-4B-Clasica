@@ -1,3 +1,4 @@
+#Hernández Rentería Jorge Andrés 4°B Clásica
 """
 1. Crear una clase Ticket con los siguientes atributos:
 -id

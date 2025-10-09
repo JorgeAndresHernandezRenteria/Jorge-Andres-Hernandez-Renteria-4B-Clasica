@@ -1,3 +1,4 @@
+#Hernández Rentería Jorge Andrés 4°B Clásica
 """
 PATRÓN FACTORY - Fábrica de Notificaciones
 Propósito: Centralizar la creación de objetos. En lugar de crear objetos directamente,
